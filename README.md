@@ -59,7 +59,7 @@ Cuando no estoy frente a la pantalla, puedes encontrarme explorando nuevas tecno
 
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacCRS17&theme=dark" alt="IsaacCRS17" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaacCRS17&show_icons=true&theme=dark&locale=en&layout=compact" alt="IsaacCRS17" /></p>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" align="center">
 <a href="https://www.facebook.com/crs.isaac.rodriguez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
